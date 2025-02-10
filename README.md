@@ -61,16 +61,18 @@ New Testnet: Singularity Finance
    ```
    nano accounts/accounts.js
    ```
-4. Configure the bot config
+   Format:export const privateKey = ["your-private-key",];
+   
+5. Configure the bot config
     ```
    nano config/config.js
     ```
-5. Create session
+6. Create session
    ```
    screen -S singurality
    ```
 
-6. To run Auto TX
+7. To run Auto TX
    ```
    npm run start
    ```
