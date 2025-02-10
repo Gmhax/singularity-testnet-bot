@@ -82,7 +82,9 @@ New Testnet: Singularity Finance
 Ctrl + A, then Click D
 
 
-## Update Bot
+
+
+## Update Bot(Optional) 
 
 To update bot follow this step :
 1. run
