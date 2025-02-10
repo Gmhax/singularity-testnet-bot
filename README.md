@@ -15,8 +15,11 @@ New Testnet: Singularity Finance
 
 
 ➡️ Use burner wallet!
+
 ➡️ Claim Faucet :  https://faucet-testnet.singularityfinance.ai/
+
 ➡️ Connect New Wallet : https://singularityfinance.ai/testnet
+
 ➡️ Complete Zeally : https://zealy.io/cw/singularityfinance/invite/4SnpNMfR9J4a6gLPxD0cL
 
 - Get Test SFI Tokens
