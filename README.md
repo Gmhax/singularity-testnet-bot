@@ -102,23 +102,4 @@ To update bot follow this step :
 4. if any eror happen check `log/app.log`
 
 
-## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
-DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
-If any error regarding SQL, try to delete `database.db` first
-
-Any eror during tx will be retried until it success, so ignore it
-
-Singularity Dashboard is have a huge delay, also for the rpc and contract so don't worry just run and forget it.
-
-## CONTRIBUTE
-
-Feel free to fork and contribute adding more feature thanks.
-
-## SUPPORT
-
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
-
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
