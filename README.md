@@ -1,20 +1,6 @@
 # SINGULARITY TESTNET BOT
 Singularity Testnet Bot
 
-## Table Of Contents
-- [SINGULARITY TESTNET BOT](#singularity-testnet-bot)
-  - [Table Of Contents](#table-of-contents)
-  - [Prerequisite](#prerequisite)
-  - [Join My Telegram Channel](#join-my-telegram-channel)
-  - [Singularity Finance Testnet](#singularity-finance-testnet)
-  - [BOT FEATURE](#bot-feature)
-  - [Setup \& Configure BOT](#setup--configure-bot)
-    - [Linux](#linux)
-    - [Windows](#windows)
-  - [Update Bot](#update-bot)
-  - [IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)](#important-note-read-it-this-is-not-decoration)
-  - [CONTRIBUTE](#contribute)
-  - [SUPPORT](#support)
 
 ## Prerequisite
 - Git
@@ -26,11 +12,9 @@ Singularity Testnet Bot
 
 ## Singularity Finance |Incentives Testnet
 New Testnet: Singularity Finance
-
+➡️ Use burner wallet!
 ➡️ Claim Faucet :  https://faucet-testnet.singularityfinance.ai/
-
 ➡️ Connect New Wallet : https://singularityfinance.ai/testnet
-
 ➡️ Complete Zeally : https://zealy.io/cw/singularityfinance/invite/4SnpNMfR9J4a6gLPxD0cL
 
 - Get Test SFI Tokens
@@ -61,7 +45,8 @@ New Testnet: Singularity Finance
 ### Setuo
 1. Clone project repo
    ```
-   git clone https://github.com/Widiskel/singularity-testnet-bot.git && cd singularity-testnet-bot
+   git clone https://github.com/Gmhax/singularity-testnet-bot.git && 
+   cd singularity-testnet-bot
    ```
 2. Run
    ```
@@ -75,11 +60,18 @@ New Testnet: Singularity Finance
     ```
    nano config/config.js
     ```
-5. To run Auto TX
+5. Create session
+ ```
+screen -S singurality
+ ```
+
+6. To run Auto TX
    ```
    npm run start
    ```
    
+##DETACH SESSION
+Ctrl + A, then Click D
 
 
 ## Update Bot
