@@ -77,7 +77,8 @@ New Testnet: Singularity Finance
    npm run start
    ```
    
-##DETACH SESSION
+##DETACH SESSION:
+
 Ctrl + A, then Click D
 
 
