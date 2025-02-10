@@ -66,9 +66,9 @@ New Testnet: Singularity Finance
    nano config/config.js
     ```
 5. Create session
- ```
-screen -S singurality
- ```
+   ```
+   screen -S singurality
+   ```
 
 6. To run Auto TX
    ```
