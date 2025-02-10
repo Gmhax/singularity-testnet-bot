@@ -61,7 +61,7 @@ New Testnet: Singularity Finance
    ```
    nano accounts/accounts.js
    ```
-   Format:export const privateKey = ["your-private-key",];
+   Format: export const privateKey = ["your-private-key",];
    
 5. Configure the bot config
     ```
