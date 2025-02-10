@@ -12,6 +12,8 @@ Singularity Testnet Bot
 
 ## Singularity Finance |Incentives Testnet
 New Testnet: Singularity Finance
+
+
 ➡️ Use burner wallet!
 ➡️ Claim Faucet :  https://faucet-testnet.singularityfinance.ai/
 ➡️ Connect New Wallet : https://singularityfinance.ai/testnet
